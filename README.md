@@ -121,3 +121,7 @@ Our study provides actionable insights for enhancing multilingual language model
 - **[Sina Bagheri Nezhad](https://sinaai.github.io/)**
 - **[Ameeta Agrawal](https://web.cecs.pdx.edu/~ameeta/)**
 - **[Rhitabrat Pokharel](https://rhitabrat.github.io/)**
+
+---
+## Acknowledgments
+This work was supported by the National Artificial Intelligence Research Resource (NAIRR) Pilot, funded by the National Science Foundation under award No. 240158.
