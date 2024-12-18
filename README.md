@@ -2,7 +2,7 @@
 
 This repository contains materials and code for the paper:
 
-**Beyond Data Quantity: Key Factors Driving Performance in Multilingual Language Models**  
+**[Beyond Data Quantity: Key Factors Driving Performance in Multilingual Language Models](https://arxiv.org/abs/2412.12500)**  
 *Sina Bagheri Nezhad, Ameeta Agrawal, Rhitabrat Pokharel*  
 To be presented at the **First Workshop on Language Models for Low-Resource Languages**  
 *The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE.*
